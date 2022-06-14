@@ -7,7 +7,7 @@ module.exports = {
     siteTitle: `Abhay`,
     siteTitleAlt: `Abhay Korat - Portfolio`,
     siteHeadline: `iPhone - Celebration Theme from @AppEnthusiastic`,
-    siteUrl: `https://`,
+    siteUrl: `https://abhuzz.github.io/Portfolio/`,
     siteDescription: `Mobile Application Developer`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
